@@ -1,2 +1,2 @@
-# discord-textmoji
-The bot that converts text into Discord emojis: and vice versa!
+# discord-textmoji [![Add bot on Discord](https://img.shields.io/badge/add%20bot%20on-Discord-7289da.svg)](https://discordapp.com/oauth2/authorize?&client_id=332215212293750796&scope=bot&permissions=3072&response_type=code)
+The bot that converts text into Discord emojis.
